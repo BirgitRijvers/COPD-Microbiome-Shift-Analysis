@@ -17,3 +17,5 @@ This study provides insights into COPD-associated microbiome changes and highlig
 
 ![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/7999909e-337b-47f2-9560-73929772dbb3)
 
+## Data availability
+The article can be viewed here. 
