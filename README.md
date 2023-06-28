@@ -1,5 +1,6 @@
 # COPD-Microbiome-Shift-Analysis
-<img width="812" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/ef7643ec-7762-463c-a389-09d1efb31ee2">
+<img width="812" alt="Schermafbeelding 2023-06-26 094816" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/f9d588e3-00bc-44ef-9e92-4a86a8ca9d5a">
+
 
 
 This is the repository for a bioinformatics project about identifying the optimal pipeline for identifying a potential microbiome shift in COPD patients after ceasing azithromycin treatment.
@@ -27,48 +28,57 @@ This study provides insights into COPD-associated microbiome changes and highlig
 
 **Barplot of amount of unique genera detected by each pipeline in each of the four subsets**
 
-![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/11e90999-8401-44ee-809c-48ed4a6fa261)
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/5ea405b2-db16-4146-a88b-efae8b4bad2c)
 
 **Stacked barplot of genera with more than 0,1% relative abundance distribution in Zymo mock sample subsets across pipelines, with a bar representing the theoretical composition of the Zymo mock sample. Relative abundances of <0.1% allocated to ‘other’.**
 
-![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/29be0267-6eca-447d-923a-11187e8da383)
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/8f255c07-70d4-40bd-ab45-89c1d29ea3ba)
+
 
 **Stacked barplot of genera with more than 0,1% relative abundance distribution in sputum sample subsets across pipelines. Relative abundances of <0.1% allocated to ‘other’.**
 
-![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/12709a24-b782-4b9c-80d5-34b42b680975)
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/523da54f-1312-4d9e-a72a-5fda038de022)
+
 
 **Temporal abundance heatmap of detected genera in sputum samples from 1 patient collected at 4 different moments**
 
-![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/42c10d1e-2787-442a-b723-304a3a108a98)
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/5677dcba-f037-46f5-8c69-1e545adf4e28)
+
 
 **Flowchart**
 
-![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/7999909e-337b-47f2-9560-73929772dbb3)
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/afc6b1d9-a542-4ff1-830a-69c0b7274f60)
+
 
 ## Tables
 **Theoretical Composition ZymoBIOMICS™ Microbial Community DNA Standard based on Genomic DNA**
 
-<img width="209" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/2856f6d3-2f0f-4c51-b278-ebfb616d8a9d">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/046fd52c-603f-439c-a3ff-f64bf2c0530d)
+
 
 **Sputum samples collected for Microbiome analysis**
 
-<img width="140" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/46ca91f7-ef83-46bb-b50a-db356484e777">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/2bdc6f8b-719b-4888-99a5-d40af599de06)
 
 **Cultured bacteria in sputum samples**
 
-<img width="302" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/426760d2-a3fc-41ad-9345-82d66bb8e64b">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/7e286872-50d7-48ca-8a2b-a938dfac0d52)
+
 
 **Basic quality measurements sequenced Sputum and Zymo mock samples with selection of top 10% and 90%  reads based on quality**
 
-<img width="362" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/db74db63-c33b-4156-b5ed-db54f9fa910a">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/10b630ca-087e-421b-b983-dfa5efb710a5)
+
 
 **Basic quality measurements sequenced Sputum samples from 1 patient**
 
-<img width="268" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/4389f24a-3d09-4a7b-8871-3e9fa3fb2afb">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/a8a6287a-1734-4247-a6c8-86773be41d8a)
+
 
 **Computational performances of the three command-line pipelines, * indicates a difficult installation process, ** indicates an average installation process and *** indicates an easy installation process**
 
-<img width="269" alt="image" src="https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/694d90f3-e7bb-49e1-b748-27c0f611cd4d">
+![image](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/assets/126883391/5ff5b5f6-f02b-44ce-9e67-aad01e962a31)
+
 
 ## Data availability
-The article can be viewed [here.](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/blob/main/Scientific%20paper%20COPD%20JGBR%20versie%202%20(draft).docx)
+The article can be viewed [here.](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/blob/main/Scientific%20paper%20COPD%20JGBR%20versie%202%20.docx)
