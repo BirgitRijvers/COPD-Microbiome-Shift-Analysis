@@ -81,4 +81,4 @@ This study provides insights into COPD-associated microbiome changes and highlig
 
 
 ## Data availability
-The article can be viewed [here.](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/blob/main/Scientific%20paper%20COPD%20JGBR%20versie%202%20.docx)
+The article can be viewed [here.](https://github.com/BirgitRijvers/COPD-Microbiome-Shift-Analysis/blob/main/Scientific%20paper%20COPD%20JGBR%20versie%202.docx)
